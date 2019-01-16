@@ -2,11 +2,11 @@
 <?totaltestVersion 19.3.1.v20181214-1343_790?>
 <!--Topaz for Total Test 19.3.1.v20181214-1343_790 Jan 15, 2019 5:17:53 PM-->
 <testExecutions version="1">
-  <file path="C:\Users\ftsvm\Compuware\Workbench\Workspace for 19.03.01 Jan 2019 Downloaded Dec 19, 2018\EdsFixPipeline\Unit Test\Scenarios\CWXTCOB_Scenario.testscenario">
+  <file path="C:\Users\ftsvm\git\EdsFixPipeline\EdsFixPipeline\Unit Test\Scenarios\CWXTCOB_Scenario.testscenario">
     <testCase duration="0" name="EdsFixPipeline.CWXTCOB_Scenario.00001: CWXTCOBCase1.00001: Check for PARM_LTH"/>
     <testCase duration="0" name="EdsFixPipeline.CWXTCOB_Scenario.00001: CWXTCOBCase1.00002: Check for PARM_DATA"/>
   </file>
-  <file path="C:\Users\ftsvm\Compuware\Workbench\Workspace for 19.03.01 Jan 2019 Downloaded Dec 19, 2018\EdsFixPipeline\Unit Test\Stubs\CWXTCOB_RPTFILE_FILE_01.stub">
+  <file path="C:\Users\ftsvm\git\EdsFixPipeline\EdsFixPipeline\Unit Test\Stubs\CWXTCOB_RPTFILE_FILE_01.stub">
     <testCase duration="0" name="EdsFixPipeline.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00001: RPTFILE assertion.00001: Check for BLANK_LINE"/>
     <testCase duration="0" name="EdsFixPipeline.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00002: RPTFILE assertion.00001: Check for BLANK_LINE"/>
     <testCase duration="0" name="EdsFixPipeline.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00003: RPTFILE assertion.00001: Check for BLANK_LINE"/>
