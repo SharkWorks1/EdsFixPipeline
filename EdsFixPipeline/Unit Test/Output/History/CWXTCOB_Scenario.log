@@ -33,7 +33,7 @@
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
   getE error: rc = 0, rs = <0X83000705>.
-  2019-01-17 10:49:34  STTR245W SLPRTCOD SLPRTCOD: I\N---TARGET---entry
+  2019-01-17 16:16:06  STTR245W SLPRTCOD SLPRTCOD: I\N---TARGET---entry
  module: CWXTCOB , csect: CWXTCOB , entry: CWXTCOB#
  ---TARGETcxx---entry
  ---TARGETcxx---exit
